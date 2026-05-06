@@ -35,5 +35,8 @@ Sugestão:
 - Métricas com Prometheus
 - Tracing com OpenTelemetry
 
+## Vídeo Pitch - Apresentação do projeto:
+Link: https://youtu.be/84hCi0IIOpI
+
 ## Aluna
 Thayná Cruz - 106478
